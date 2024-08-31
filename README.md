@@ -18,7 +18,7 @@ Welcome to the official GitHub repository for **NXO**, the ultimate mod menu for
 
 1. **Download**: Get the latest version of NXO from the [Releases](https://github.com/NuggetGT/NXO-Mod-Panel/releases) section.
 2. **Watch the Tutorial**: Follow this [video tutorial](https://www.youtube.com/watch?v=G08beJqlOHU) for a step-by-step guide on how to install mods for Gorilla Tag, including how to set up NXO.
-3. **Launch**: Start Gorilla Tag and access NXO to unleash the full potential of your gameplay.
+3. **Launch**: Start Gorilla Tag and Enjoy the NXO Mod Menu!
 
 ### 💬 Support & Community
 
