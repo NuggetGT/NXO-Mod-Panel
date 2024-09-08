@@ -12,7 +12,7 @@ Welcome to the official GitHub repository for **NXO**, the ultimate mod menu for
 
 ### ⚠️ Disclaimer
 
-**NXO is an illegal mod menu**, and its use may violate the terms of service of Gorilla Tag. We do not condone or support illegal activities. Use NXO at your own risk, and understand that you are fully responsible for any consequences that may arise from its use.
+**NXO is an "illegal" mod menu**, which means its use blatantly & unquestionably violates the terms of service of Gorilla Tag. We do not condone or support illegal activities. Use NXO at your own risk, and understand that you are fully responsible for any consequences that may arise from its use.
 
 ### 📥 Installation
 
